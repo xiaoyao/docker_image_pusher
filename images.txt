@@ -5,4 +5,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # kindest/node:v1.30.0
---platform=arm64 arm64v8/ubuntu:22.04
+# --platform=arm64 arm64v8/ubuntu:22.04
+--platform=arm64 kubeovn/kube-ovn-base:v1.11.0
